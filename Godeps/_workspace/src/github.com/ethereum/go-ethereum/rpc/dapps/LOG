@@ -1,0 +1,10 @@
+=============== Mar 25, 2015 (GMT) ===============
+14:56:47.809368 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock D·DeletedEntry L·Level Q·SeqNum T·TimeElapsed
+14:56:47.809612 db@open opening
+14:56:47.809676 journal@recovery F·1
+14:56:47.809727 journal@recovery recovering @1
+14:56:47.810335 mem@flush created L0@2 N·1 S·128B "t..y,v1":"t..y,v1"
+14:56:47.811956 db@janitor F·3 G·0
+14:56:47.811972 db@open done T·2.350718ms
+14:56:47.812124 db@close closing
+14:56:47.812221 db@close done T·91.823µs

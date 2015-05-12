@@ -1,0 +1,7 @@
+=============== Mar 25, 2015 (GMT) ===============
+14:56:47.806129 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock D·DeletedEntry L·Level Q·SeqNum T·TimeElapsed
+14:56:47.807159 db@open opening
+14:56:47.808248 db@janitor F·2 G·0
+14:56:47.808274 db@open done T·1.099206ms
+14:56:47.809040 db@close closing
+14:56:47.809117 db@close done T·74.134µs
