@@ -5,3 +5,13 @@ This is a temporarily solution to extract private keys from the old key store on
 Usage:
 
 `gethkey <address> <export_file>`
+
+Installation:
+
+Installation assumes you have [godep](https://github.com/tools/godep) installed
+
+```
+git clone https://github.com/ethereum/gethkey.git
+cd gethkey
+godep go install
+```
