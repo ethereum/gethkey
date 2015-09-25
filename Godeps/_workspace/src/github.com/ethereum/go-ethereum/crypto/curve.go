@@ -33,7 +33,7 @@ type BitCurve struct {
 }
 
 func (BitCurve *BitCurve) Params() *elliptic.CurveParams {
-	return &elliptic.CurveParams{BitCurve.P, BitCurve.N, BitCurve.B, BitCurve.Gx, BitCurve.Gy, BitCurve.BitSize}
+	return &elliptic.CurveParams{BitCurve.P, BitCurve.N, BitCurve.B, BitCurve.Gx, BitCurve.Gy, BitCurve.BitSize, "curve1"}
 }
 
 // IsOnBitCurve returns true if the given (x,y) lies on the BitCurve.
